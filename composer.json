@@ -29,6 +29,10 @@
         "classmap": [
             "Core/",
             "Helpers/"
-        ]
+        ],
+        "psr-4": {
+            "Oval\\Laravel\\Bootstrap\\Core\\": "Core/",
+            "Oval\\Laravel\\Bootstrap\\Helpers\\": "Helpers/"
+        }
     } 
 }
