@@ -1,6 +1,6 @@
 <?php
 
-namespace Oval\Bootstrap\Core;
+namespace Oval\Laravel\Bootstrap\Core;
 
     /**
      * The core object was set up to prevent properties being added on the fly

@@ -1,8 +1,8 @@
 <?php
 
-namespace Oval\Bootstrap\Core;
+namespace Oval\Laravel\Bootstrap\Core;
 
-use Oval\Bootstrap\Core\CoreObject;
+use Oval\Laravel\Bootstrap\Core\CoreObject;
 
 abstract class BaseViewModel extends CoreObject
 {
