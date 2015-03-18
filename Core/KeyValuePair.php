@@ -1,5 +1,7 @@
 <?php
 
+namespace Oval\Laravel\Bootstrap\Core;
+
 class KeyValuePair
 {
     public $Key;
