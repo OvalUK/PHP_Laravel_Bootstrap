@@ -2,8 +2,6 @@
 
 namespace Oval\Laravel\Bootstrap\Core;
 
-use KeyValuePair;
-
 class Error
 {
     const SUCCESS = 1;
