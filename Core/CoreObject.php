@@ -21,7 +21,7 @@ namespace Oval\Laravel\Bootstrap\Core;
          */
         public function __set( $key, $value )
         {
-            throw new Exception( "
+            throw new \Exception( "
                 Thrown at Oval\Laravel\Objects\CoreObject.\r\n\r\n                
 
                 The property you are trying to set does not exist on this object\r\n

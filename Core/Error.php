@@ -18,6 +18,6 @@ class Error
     
     public static function UndefinedProperty( $field )
     {
-        throw new Exception( "The property '$field' does not exist!" );
+        throw new \Exception( "The property '$field' does not exist!" );
     }
 }
